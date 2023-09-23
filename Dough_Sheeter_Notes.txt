@@ -1,0 +1,19 @@
+Parts list based on Mercy0 comment (https://github.com/frenchguycooking/doughsheeter/issues/2#issuecomment-536134070) and my own inspection of the video.
+
+v3-side-arm
+v3-side-arm-mirror
+2x double-ended-driving-gear
+2x bobin-gear-v1 
+2x big-intermediate-gear-and-washer
+x bolt
+rack-1 6-10x
+Some sort of square thing with screw hole in it 8x?
+2x side-panel-hollow as template for side panels
+
+Looks like he changed how he drives the dough sheeter some shots show one method and other shots show a different method.
+
+One method is to have only one side have a hex end that is printed for driving (double ended driving gear) and the other side doesn't stick out much past the bearing and side arm, not quite sure what piece he uses for the other side
+
+The second method I see is one side has the double-ended-driving-gear and the other side has the 6mm-heaxagonal-gear and most likely 6mm-hexagonal-insert attached to a cut off 6mm allen wrench.
+
+I think implementation wise it would be easiest to start with two double-ended-driving-gear and switch to a different method later if needed.
