@@ -25,7 +25,11 @@ I think implementation wise it would be easiest to start with two double-ended-d
 20231005 Update:
 Starting working with friend to get parts printed. Updated bobin-gear fusion file to allow for a 2 inch diameter rolling pin. The current file has a 1.95 inch diameter. We will wait to print the bobin gear until the rolling pin arrive and I check the diameter with calipers.
 
-Thinking about using a cutting board type sheet for the sheeter instead of wood. Either Polypropylene or Polyethylene.
+Thinking about using a cutting board type sheet for the sheeter instead of wood. Either Polypropylene or Polyethylene. These are two current contenders:
+
+https://www.webstaurantstore.com/regency-polyethylene-cutting-board-insert-for-wire-shelving-18-x-36-x-1-2/460SI1836P.html?utm_source=google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=CjwKCAjwvfmoBhAwEiwAG2tqzCfeHWi80Whb-6qTgNi7z7UzlnKAdmYZaXP5Xx3HuKPmhh5VBDJA9xoCc5wQAvD_BwE
+
+https://www.grainger.com/product/1ZAK3?gucid=N:N:PS:Paid:GGL:CSM-2295:4P7A1P:20501231&gclid=CjwKCAjwvfmoBhAwEiwAG2tqzFO2I7W44MFAWKLSBZuWAXyUh0zZU8cMpRibW59rkalpQXvBrIAZWxoCXQgQAvD_BwE&gclsrc=aw.ds
 
 Todos:
 
